@@ -10,7 +10,7 @@
 
 <b>Indoor Positioning -</b> <br><br>
 <img src="images/Output_1.png" width="500" height="300"> 
-
+<br>
 <img src="images/Output_2.png" width="500" height="300">
 <br>
 
