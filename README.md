@@ -9,6 +9,8 @@
 <img src="images/wifi_graph.png" width="700" height="500">
 
 <b>Indoor Positioning -</b> <br><br>
-<img src="images/output_1.png" width="700" height="400">
+<img src="images/Output_1.png" width="700" height="400">
 <br>
-<img src="images/output_2.png" width="700" height="400">
+<img src="images/Output_2.png" width="700" height="400">
+<br>
+<img src="images/Output_3.png" width="700" height="400">
