@@ -6,11 +6,11 @@
   
 <b>Wifi Name (source) vs User Distance Represtation :</b>
 <br><br>
-<img src="images/wifi_graph.png" width="700" height="500">
+<img src="images/wifi_graph.png" width="500" height="300">
 
 <b>Indoor Positioning -</b> <br><br>
-<img src="images/Output_1.png" width="700" height="400">
+<img src="images/Output_1.png" width="500" height="300"> 
+
+<img src="images/Output_2.png" width="500" height="300">
 <br>
-<img src="images/Output_2.png" width="700" height="400">
-<br>
-<img src="images/Output_3.png" width="700" height="400">
+
